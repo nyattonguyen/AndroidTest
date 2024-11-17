@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11108971357",
+    "project_id": "netflix-react-7a069",
+    "storage_bucket": "netflix-react-7a069.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11108971357:android:ec7ee6d48915c8b7442eb4",
+        "android_client_info": {
+          "package_name": "com.example.bookingappssss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11108971357-vobiilpc3m9b81740r1gsfsd4hbe0bhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJeIWGck-0C3CysJS-pZRD75zqsk3qILA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11108971357-vobiilpc3m9b81740r1gsfsd4hbe0bhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
